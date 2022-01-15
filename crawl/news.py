@@ -8,7 +8,7 @@ import time
 import json
 
 client_id = 'PvgIj0dNozX4R9Xmuz7P'
-client_secret = 'zk2tC3eJR_'
+client_secret = 'xiWGmirD8j'
 
 def getRequestUrl(url):
     req = urllib.request.Request(url)
