@@ -1,0 +1,3 @@
+Welcome to GongbroDesk.
+My name is Gongbro.
+I like Python. Do you like Python?
